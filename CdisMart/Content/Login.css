@@ -1,0 +1,99 @@
+﻿#imgLogin {
+    content: url('../Imagenes/cdisMart.png');
+    width: 35%;
+    margin: auto;
+    margin-bottom:30px;
+}
+
+#formLogin {
+    width: 50%;
+    margin: 100px auto;
+    border: 1px solid #010024;
+    box-shadow: #86a3a3 5px 5px;
+    height: auto;
+    border-radius: 35px;
+    background-color: #cfeded;
+}
+
+#formRegistro {
+    width: 50%;
+    margin: 100px auto;
+    border: 1px solid #010024;
+    box-shadow: #adadad 5px 5px;
+    height: auto;
+    border-radius: 35px;
+    background-color: #cfeded;
+}
+
+table {
+    
+    margin: auto;
+    height: auto;
+}
+
+body, html {
+    font-family: 'Daytona W04';
+    font-size: medium;
+    color:black;
+    margin-left:auto;
+    margin-top:3%;
+}
+
+
+#btnIngresar {
+    background-color: #082525;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    font-family: 'Daytona W04';
+    font-size: small;
+    height: fit-content;
+    border-radius: 15px;
+}
+
+#btnRegistro {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: #082525;
+    padding: 10px 25px;
+    font-family: 'Daytona W04';
+    font-size: small;
+    height: fit-content; 
+    letter-spacing: 5px;
+    width:50%;
+    margin-left:25%;
+    border-radius:15px;
+}
+
+#btnCuenta {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: #082525;
+    padding: 10px 25px;
+    font-family: 'Daytona W04';
+    font-size: small;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 15px;
+}
+
+#titulo{
+    font-size:larger;
+    text-align:center;
+    width:100%;
+    margin-top:10px;
+    margin-bottom:10px;
+    color:#082525;
+}
+
+.divEspacio{
+    height:50%;
+    width:100%;
+    background-color:blueviolet;
+}
